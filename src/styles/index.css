@@ -46,8 +46,8 @@ body {
   row-gap: 2rem;
 }
 .header-title {
+  font-family: Vazirmatn;
   color: var(--primery-color);
-  font-weight: 800;
   font-size: 3.2rem;
 }
 .header-search {
@@ -157,7 +157,7 @@ td:nth-child(3) {
 
 .transactions-loading {
   color: #fff;
-  font-weight: 800;
+  font-family: Vazirmatn !important;
   font-size: 2rem;
   background-color: #009baf;
   border-radius: 2.8rem;
