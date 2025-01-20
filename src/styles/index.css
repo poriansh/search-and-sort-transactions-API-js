@@ -72,8 +72,8 @@ body {
   color: #cacaca;
 }
 .header-search-btn {
-  width: 2.4rem;
-  height: 2.4rem;
+  max-width: 2.4rem;
+  max-height: 2.4rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -158,10 +158,10 @@ td:nth-child(3) {
 .transactions-loading {
   color: #fff;
   font-family: Vazirmatn !important;
-  font-size: 2rem;
+  font-size: 1.8rem;
   background-color: #009baf;
   border-radius: 2.8rem;
-  padding: 1rem 8rem;
+  padding: 1rem 4rem;
   display: block;
   margin: 0 auto;
   cursor: pointer;
